@@ -1,5 +1,3 @@
-// app.js
-
 document.addEventListener("DOMContentLoaded", () => {
   const fetchButton = document.getElementById("fetchMessage");
   const updateButton = document.getElementById("updateMessage");
